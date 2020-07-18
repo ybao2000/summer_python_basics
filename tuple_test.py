@@ -29,6 +29,8 @@ print(sub2)
 
 # if start is 0, you can omit it
 sub3 = t1[:2]
+sub3_2 = t1[2:]
+sub3_3 = t1[3:1:-1]
 print(sub3)
 
 # what is i omit end, that means start from index, and include everything after the start
@@ -40,3 +42,6 @@ print(t1 + t2)
 
 # multiply
 print(t1 * 3)
+
+###########tuple is not mutable
+# t1[0] = "watermelon"
