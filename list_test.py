@@ -64,9 +64,16 @@ print(l1)
 l1.extend(t2)
 print(l1)
 
+print('--------------')
+item = l1.pop(0)
+print(item)
+
 # remove - remove item
 l1.remove('watermelon')
 print(l1)
+
+# clear - remove all items
+l1.clear();
 
 # sort
 l2.sort()
