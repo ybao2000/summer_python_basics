@@ -27,5 +27,5 @@ def max_of_three(num1, num2, num3):
   # for experienced developer
   # return max_of_two(max_of_two(num1, num2), num3)
 
-n = max_of_three(3, 7, 5)
-print(n)
+# n = max_of_three(3, 7, 5)
+# print(n)

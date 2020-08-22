@@ -15,7 +15,7 @@ def first_greater_square(number):
     index += 1
 
 # print(first_greater_square(117))
-import random
-number = random.randint(1, 10000)
-index, square = first_greater_square(number)
-print(f"number: {number}, first grader index, square: {index}, {square}")
+# import random
+# number = random.randint(1, 10000)
+# index, square = first_greater_square(number)
+# print(f"number: {number}, first grader index, square: {index}, {square}")

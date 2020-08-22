@@ -6,4 +6,4 @@ def least_common_multiple(num1, num2):
       return num
     num += 1
 
-print(least_common_multiple(115, 25))
+# print(least_common_multiple(115, 25))

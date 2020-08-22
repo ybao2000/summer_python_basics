@@ -22,7 +22,7 @@ print(sub2)
 # if start is 0, you can omit it
 print("-------------")
 sub3 = s1[:2]
-sub3_2 = s1[2:]
+sub3_2 = s1[2:] # this means go to the end
 sub3_3 = s1[3:1:-1]
 print(sub3, len(sub3))
 print(sub3_2)
